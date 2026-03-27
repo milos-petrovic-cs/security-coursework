@@ -1,2 +1,2 @@
 # security-coursework
-Security analysis coursework — vulnerability triage, risk registers, and SOC labs | ICST 454 @ Evangel University
+Nessus scan triage and CVE prioritization for a HIPAA-covered hospital | ICST 454 @ Evangel University
